@@ -1,2 +1,1 @@
-# TPUTestnetSystemSolutionsNext
-Advanced TPUTestnetSystemSolutionsNext project
+.
